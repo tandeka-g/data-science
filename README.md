@@ -1,3 +1,4 @@
+
 # Coil Data Science
 
 The course material for the COIL on Data Science, organised by Thomas More.
@@ -23,3 +24,6 @@ If the codingbat-exercises are very difficult for you, do mention that in your e
 * Session 2: Numpy and Matplotlib
 * Session 3: Pandas
 * Session 4: Roundup and presentations
+
+# data-science
+
